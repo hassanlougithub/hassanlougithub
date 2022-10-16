@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leila Hassanlou
-- 👀 I’m interested in Computer Vision, Deep learning and Bioinformatics
-- 🌱 I’m currently PhD candidate in Biomedical engineering
-- 💞️ I’m looking to collaborate on applications of deep learning in bioinformatics.
+- 👀 I’m interested in Computer Vision and Deep Learning.
+- 🌱 I’m currently a Ph.D. candidate in Biomedical Engineering
+- 💞️ I’m looking to collaborate on deep learning applications in medical image processing.
 - 📫 How to reach me: hassanlou@tabrizu.ac.ir
 
 <!---
